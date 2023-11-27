@@ -14,7 +14,7 @@
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
-  <a href="#download">How to do Manually</a> •
+  <a href="#download">How To Do It Manually</a> •
 </p>
 
 ## How It Works
@@ -27,16 +27,21 @@
   - Automatically generates a valid audio file ready for import into a PlayStation 2 (PS2) game.
 
 ## How To Use
-
 ```console
-ps2adpcm -c [custom audio] -i [original audio] -o [output audio]
+./ps2adpcm
+```
+![Screenshot_2023-11-27_12-26-48](https://github.com/Mat1az/ps2adpcm/assets/39683242/69dfae49-ccda-44fb-9a20-0beb457b13fb)
+
+ OR
+```console
+./ps2adpcm -c [custom audio] -i [original audio] -o [output audio]
 ```
 
 ## Download
 
 You can [download](https://github.com/Mat1az/ps2adpcm/releases/latest) the latest version of PS2ADPCM.
 
-## How To Do Manually
+## How To Do It Manually
 1. Open the original WAV file using MFAudio or Audacity.
    - Copy the `Frequency Hz` and paste it into Notepad.
 2. Open the original WAV file with a Hex Editor.
