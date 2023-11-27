@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Alpha release: Intended for use with GTA: San Andreas SFX files; not yet tested on other games.
+
 <h1 align="center">
   <br>
   PS2ADPCM
