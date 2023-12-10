@@ -17,7 +17,7 @@
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
-  <a href="#how-to-do-it-manually">How To Do It Manually</a> •
+  <a href="#how-to-do-it-manually">How To Do It Manually</a>
 </p>
 
 ## How It Works
